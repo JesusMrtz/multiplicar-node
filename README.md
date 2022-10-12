@@ -2,6 +2,12 @@
 >Creado por Jesús Martínez Torres gracias al curso de [NodeJs](https://www.udemy.com/course/node-de-cero-a-experto/)
 
 
+  - [Primeros pasos](#primeros-pasos)
+  - [Argumentos soportados](#argumentos-soportados)
+  - [Modo de Uso](#modo-de-uso)
+
+## Primeros pasos
+Ejecutar el comando `npm install` para instalar todas las dependencias necesarias
 ## Argumentos soportados
 
 | Comando | Alias | Descripción | Tipo | Requerido | Default |
